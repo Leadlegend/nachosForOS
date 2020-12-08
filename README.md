@@ -1,2 +1,3 @@
 # nachosForOS
-PKU操作系统课程Nachos3.4 Lab
+PKU Operating System Curriculum Lab of Nachos 3.4
+my own implementation
